@@ -1,0 +1,21 @@
+{
+  "name": "onizuka-camera-server",
+  "version": "0.1.0",
+  "description": "Camera server for the Onizuka project",
+  "main": "camera.js",
+  "dependencies": {
+    "zmq": "~2.6.0",
+    "lodash": "~2.4.1",
+    "log4js": "~0.6.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/crertel/onizuka-camera-server.git"
+  },
+  "author": "Chris Ertel",
+  "license": "BSD"
+}
