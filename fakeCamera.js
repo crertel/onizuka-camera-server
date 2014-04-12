@@ -1,4 +1,4 @@
-var config = require("./camConfig.js");
+var config = require("./camConfig.json");
 var zmq = require('zmq');
 var _ = require('lodash');
 var log4js = require('log4js');

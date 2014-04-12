@@ -1,0 +1,6 @@
+{
+    "ID": "fakeCamera",
+    "simServerAddress": "localhost",
+    "simCameraPort": 4002,
+    "cameraServerPort": 4003
+}
